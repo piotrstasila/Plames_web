@@ -267,11 +267,10 @@ h2, h4 {
     header img {
         display:none;
     }
-    #youtube {
+    iframe {
         width:180px;
         height:auto;
-    
-    }
+        }
     
     nav {
         font-size: 0.5em;
