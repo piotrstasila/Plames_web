@@ -236,8 +236,7 @@ h2, h4 {
         flex-direction: row;
       }
     header img {
-          height: 50px;
-          margin-top:10px;
+          display:none;
       }
       .container-head h2,
       .container-head-2 h2,
